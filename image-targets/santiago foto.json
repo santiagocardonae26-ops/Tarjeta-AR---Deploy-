@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 102,
+    "left": 0,
+    "width": 826,
+    "height": 1101,
+    "isRotated": false,
+    "originalWidth": 826,
+    "originalHeight": 1280
+  },
+  "imagePath": "image-targets/santiago foto_luminance.jpg",
+  "metadata": null,
+  "name": "santiago foto",
+  "resources": {
+    "originalImage": "santiago foto_original.jpg",
+    "croppedImage": "santiago foto_cropped.jpg",
+    "thumbnailImage": "santiago foto_thumbnail.jpg",
+    "luminanceImage": "santiago foto_luminance.jpg"
+  },
+  "created": 1790630976613,
+  "updated": 1790631021867
+}
